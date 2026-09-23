@@ -6,9 +6,9 @@ Bienvenido a mi repositorio central de laboratorios técnicos y evidencias de se
 
 ## 📌 Índice de Laboratorios & Mapeo Normativo
 
-| 01 | [**DLP** (Data Loss Prevention)](./01-dlp-lab) | Inspección de PII, control de canales de exfiltración (USB, portapapeles) y alertas. | 🟡 *En Proceso* |
-| 02 | [**IRM** (Information Rights Mgmt)](./02-irm-lab) | Clasificación de información, etiquetado de documentos y control de derechos de acceso. | ⚪ *Planificado* |
-| 03 | [**Full-Disk Encryption**](./03-disk-encryption-lab) | Cifrado de disco (BitLocker/LUKS) y gestión segura de claves de recuperación. | ⚪ *Planificado* |
+| 01 | [**DLP** (Data Loss Prevention)](./01-dlp-lab) | Inspección de PII, control de canales de exfiltración (USB, portapapeles) y alertas. 
+| 02 | [**IRM** (Information Rights Mgmt)](./02-irm-lab) | Clasificación de información, etiquetado de documentos y control de derechos de acceso. 
+| 03 | [**Full-Disk Encryption**](./03-disk-encryption-lab) | Cifrado de disco (BitLocker/LUKS) y gestión segura de claves de recuperación. 
 | 04 | [**Backups** (Copias de Seguridad)](./04-backup-lab) | Políticas de respaldo (regla 3-2-1), cifrado de copias y pruebas de restauración. | ⚪ *Planificado* |
 | 05 | [**IDS/IPS** (Detección/Prevención)](./05-ids-ips-lab) | Monitorización de red, detección de firmas de intrusión y reglas de bloqueo automático. | ⚪ *Planificado* |
 | 06 | [**VPN** (Acceso Remoto Seguro)](./06-vpn-lab) | Despliegue de túneles cifrados con autenticación multifactor (MFA) para teletrabajo. | ⚪ *Planificado* |
