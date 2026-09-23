@@ -30,4 +30,4 @@ Bienvenido a mi repositorio central de laboratorios técnicos y evidencias de se
 - **Autor:** Luis Pascual Rodríguez
 - **Rol:** Consultor GRC & Cybersecurity Specialist
 - **Ubicación:** Ourense, España
-- 🔗 **LinkedIn:** [Perfil Profesional]([https://www.linkedin.com](https://www.linkedin.com/in/luispar)) 
+- 🔗 **LinkedIn:** [[Perfil Profesional](https://www.linkedin.com/in/luispar)]([https://www.linkedin.com](https://www.linkedin.com/in/luispar)) 
