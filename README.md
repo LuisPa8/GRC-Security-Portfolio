@@ -20,8 +20,8 @@ Bienvenido a mi repositorio central de laboratorios técnicos y evidencias de se
 ---
 
 ## 🛠️ Entorno de Laboratorio Habitual
-- **Hipervisor:** VMware Workstation / VirtualBox.
-- **Sistemas Operativos:** Windows Server, Windows 11 Enterprise, Ubuntu Linux / Kali Linux.
+- **Hipervisor:** VMware Workstation.
+- **Sistemas Operativos:** Windows Server, Windows 11 Pro, Kali Linux.
 - **Herramientas de Análisis:** PowerShell, Python, SQL, Wireshark, Nmap, Power BI.
 
 ---
@@ -30,4 +30,4 @@ Bienvenido a mi repositorio central de laboratorios técnicos y evidencias de se
 - **Autor:** Luis Pascual Rodríguez
 - **Rol:** Consultor GRC & Cybersecurity Specialist
 - **Ubicación:** Ourense, España
-- 🔗 **LinkedIn:** [Perfil Profesional](https://www.linkedin.com) *(reemplaza con tu enlace)*
+- 🔗 **LinkedIn:** [Perfil Profesional]([https://www.linkedin.com](https://www.linkedin.com/in/luispar)) 
